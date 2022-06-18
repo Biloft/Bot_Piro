@@ -6,7 +6,7 @@
     "test": "echo \"Error: no test specified\" && exit 1","start": "node ."
   },
   "keywords": [],
-  "author": "",
+  "author": "887784629875118160",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^13.8.0",
